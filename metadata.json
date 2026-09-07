@@ -1,0 +1,6 @@
+{
+  "name": "Neumorph Music",
+  "description": "Modern offline-first Neumorphic Music Player with 3-band Equalizer, Media3 background playback, and soft UI controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
